@@ -13,6 +13,7 @@
 		C1514D0E248E0C46003E6CC6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1514D0D248E0C46003E6CC6 /* Assets.xcassets */; };
 		C1514D11248E0C46003E6CC6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1514D10248E0C46003E6CC6 /* Preview Assets.xcassets */; };
 		C1514D14248E0C46003E6CC6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C1514D12248E0C46003E6CC6 /* LaunchScreen.storyboard */; };
+		C168B3C0248FA5820048A8D7 /* AView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C168B3BF248FA5820048A8D7 /* AView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C1514D10248E0C46003E6CC6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C1514D13248E0C46003E6CC6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C1514D15248E0C46003E6CC6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C168B3BF248FA5820048A8D7 /* AView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				C1514D07248E0C45003E6CC6 /* AppDelegate.swift */,
 				C1514D09248E0C45003E6CC6 /* SceneDelegate.swift */,
 				C1514D0B248E0C45003E6CC6 /* ContentView.swift */,
+				C168B3BF248FA5820048A8D7 /* AView.swift */,
 				C1514D0D248E0C46003E6CC6 /* Assets.xcassets */,
 				C1514D12248E0C46003E6CC6 /* LaunchScreen.storyboard */,
 				C1514D15248E0C46003E6CC6 /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				C1514D08248E0C45003E6CC6 /* AppDelegate.swift in Sources */,
 				C1514D0A248E0C45003E6CC6 /* SceneDelegate.swift in Sources */,
+				C168B3C0248FA5820048A8D7 /* AView.swift in Sources */,
 				C1514D0C248E0C45003E6CC6 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

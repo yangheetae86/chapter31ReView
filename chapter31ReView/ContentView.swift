@@ -9,8 +9,16 @@
 import SwiftUI
 
 struct ContentView: View {
+    
     var body: some View {
-        Text("Hello, World!")
+        
+        Image(systemName: "star")
+        .gesture(
+        TapGesture()
+            .onEnded{ _ in
+                print("Tapped")
+            }
+        )
     }
 }
 
